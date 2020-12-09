@@ -1,0 +1,5 @@
+ul li.checked {
+    background: rgb(96, 50, 148);
+    color: rgb(255, 255, 255);
+    text-decoration: line-through;
+  }
